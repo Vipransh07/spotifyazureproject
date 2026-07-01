@@ -1,0 +1,15 @@
+{
+	"name": "vipdfazurespotifyproject",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "34d23ed1-15b2-4cb2-be9e-04b6d6c7cf38",
+		"tenantId": "4345d094-0bbc-4467-a90e-eb73226d48e5"
+	}
+}
