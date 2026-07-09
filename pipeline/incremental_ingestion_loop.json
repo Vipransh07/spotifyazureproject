@@ -326,7 +326,8 @@
 					{
 						"activity": "UpdateAllTables",
 						"dependencyConditions": [
-							"Succeeded"
+							"Succeeded",
+							"Failed"
 						]
 					}
 				],
